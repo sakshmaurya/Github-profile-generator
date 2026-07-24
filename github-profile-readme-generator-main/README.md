@@ -103,14 +103,6 @@ Please read [`CONTRIBUTING`](CONTRIBUTING.md) for details on our [`CODE OF CONDU
 - [Lucide React](https://lucide.dev/) - Beautiful & consistent icons
 - [React Hook Form](https://react-hook-form.com/) - Performant forms with easy validation
 
-## 🙇 Special Thanks
-
-- [Addon Developer](https://github.com/anuraghazra) for amazing [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-- [Addon Developer](https://github.com/antonkomarev) for super cool [github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter)
-- [Addon Developer](https://github.com/gautamkrishnar) for the awesome [blog post workflow](https://github.com/gautamkrishnar/blog-post-workflow)
-- [Addon Developer](https://github.com/DenverCoder1) for the incredible [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-- [Addon Developer](https://github.com/konpa) for super useful [devicon](https://github.com/konpa/devicon)
-- [Contributor](https://github.com/techieeliot) for adding hashnode as a blog input
 
 ##  Privacy & Analytics
 
